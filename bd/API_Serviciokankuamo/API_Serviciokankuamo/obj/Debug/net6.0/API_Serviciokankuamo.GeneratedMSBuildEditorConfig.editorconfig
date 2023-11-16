@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = API_Serviciokankuamo
+build_property.RootNamespace = API_Serviciokankuamo
+build_property.ProjectDir = C:\Users\acer\OneDrive\Documentos\INGENIERIA SISTEMAS\16-02 2023\PROYECTO DE GRADO\ACTIVIDAD 4\bd\API_Serviciokankuamo\API_Serviciokankuamo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\acer\OneDrive\Documentos\INGENIERIA SISTEMAS\16-02 2023\PROYECTO DE GRADO\ACTIVIDAD 4\bd\API_Serviciokankuamo\API_Serviciokankuamo
+build_property._RazorSourceGeneratorDebug = 
